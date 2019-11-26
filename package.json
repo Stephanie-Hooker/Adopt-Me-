@@ -1,0 +1,26 @@
+{
+  "name": "Adopt-me",
+  "version": "1.0.0",
+  "description": "\"# Adopt-Me-\"",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier \"src/**/*.{js, html}\" --write",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stephanie-Hooker/Adopt-Me-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stephanie-Hooker/Adopt-Me-/issues"
+  },
+  "homepage": "https://github.com/Stephanie-Hooker/Adopt-Me-#readme",
+  "devDependencies": {
+    "eslint": "^6.7.1",
+    "eslint-config-prettier": "^6.7.0",
+    "prettier": "^1.19.1"
+  }
+}
