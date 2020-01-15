@@ -37,7 +37,7 @@ const NavBar = () => (
       aria-label="logo"
       role="img"
     >
-      🐩
+      🐵
     </span>
   </header>
 );
